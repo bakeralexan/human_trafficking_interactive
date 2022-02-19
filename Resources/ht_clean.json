@@ -1,0 +1,4714 @@
+[
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d54"
+       },
+       "County": "ALLEN",
+       "Year": "2013",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d55"
+       },
+       "County": "NELSON",
+       "Year": "2013",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d56"
+       },
+       "County": "ST LOUIS",
+       "Year": "2013",
+       "ACTUAL_COUNT": "6"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d57"
+       },
+       "County": "ARAPAHOE",
+       "Year": "2014",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d58"
+       },
+       "County": "BEXAR",
+       "Year": "2014",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d59"
+       },
+       "County": "BOONE",
+       "Year": "2014",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d5a"
+       },
+       "County": "CHAMBERS",
+       "Year": "2014",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d5b"
+       },
+       "County": "COLLIER",
+       "Year": "2014",
+       "ACTUAL_COUNT": "12"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d5c"
+       },
+       "County": "COOK",
+       "Year": "2014",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d5d"
+       },
+       "County": "HARRIS",
+       "Year": "2014",
+       "ACTUAL_COUNT": "8"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d5e"
+       },
+       "County": "HILLSBOROUGH",
+       "Year": "2014",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d5f"
+       },
+       "County": "HORRY",
+       "Year": "2014",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d60"
+       },
+       "County": "INDIAN RIVER",
+       "Year": "2014",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d61"
+       },
+       "County": "JEFFERSON",
+       "Year": "2014",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d62"
+       },
+       "County": "JIM HOGG",
+       "Year": "2014",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d63"
+       },
+       "County": "JIM WELLS",
+       "Year": "2014",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d64"
+       },
+       "County": "JOHNSON",
+       "Year": "2014",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d65"
+       },
+       "County": "LA SALLE",
+       "Year": "2014",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d66"
+       },
+       "County": "LEE",
+       "Year": "2014",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d67"
+       },
+       "County": "MADISON",
+       "Year": "2014",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d68"
+       },
+       "County": "MANATEE",
+       "Year": "2014",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d69"
+       },
+       "County": "ORANGE",
+       "Year": "2014",
+       "ACTUAL_COUNT": "5"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d6a"
+       },
+       "County": "OSCEOLA",
+       "Year": "2014",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d6b"
+       },
+       "County": "POLK",
+       "Year": "2014",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d6c"
+       },
+       "County": "RANDOLPH",
+       "Year": "2014",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d6d"
+       },
+       "County": "SANGAMON",
+       "Year": "2014",
+       "ACTUAL_COUNT": "8"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d6e"
+       },
+       "County": "SMITH",
+       "Year": "2014",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d6f"
+       },
+       "County": "ST LOUIS",
+       "Year": "2014",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d70"
+       },
+       "County": "WILLACY",
+       "Year": "2014",
+       "ACTUAL_COUNT": "5"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d71"
+       },
+       "County": "ALLEN",
+       "Year": "2015",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d72"
+       },
+       "County": "ANOKA",
+       "Year": "2015",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d73"
+       },
+       "County": "ARAPAHOE",
+       "Year": "2015",
+       "ACTUAL_COUNT": "5"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d74"
+       },
+       "County": "BEE",
+       "Year": "2015",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d75"
+       },
+       "County": "BENTON",
+       "Year": "2015",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d76"
+       },
+       "County": "BEXAR",
+       "Year": "2015",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d77"
+       },
+       "County": "CARVER",
+       "Year": "2015",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d78"
+       },
+       "County": "FAYETTE",
+       "Year": "2015",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d79"
+       },
+       "County": "FILLMORE",
+       "Year": "2015",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d7a"
+       },
+       "County": "FLOYD",
+       "Year": "2015",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d7b"
+       },
+       "County": "FREDERICK",
+       "Year": "2015",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d7c"
+       },
+       "County": "GRAINGER",
+       "Year": "2015",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d7d"
+       },
+       "County": "GREENVILLE",
+       "Year": "2015",
+       "ACTUAL_COUNT": "10"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d7e"
+       },
+       "County": "HARRIS",
+       "Year": "2015",
+       "ACTUAL_COUNT": "18"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d7f"
+       },
+       "County": "HENRICO",
+       "Year": "2015",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d80"
+       },
+       "County": "HOWARD",
+       "Year": "2015",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d81"
+       },
+       "County": "INGHAM",
+       "Year": "2015",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d82"
+       },
+       "County": "JIM WELLS",
+       "Year": "2015",
+       "ACTUAL_COUNT": "5"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d83"
+       },
+       "County": "KIMBLE",
+       "Year": "2015",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d84"
+       },
+       "County": "LAURENS",
+       "Year": "2015",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d85"
+       },
+       "County": "MONTGOMERY",
+       "Year": "2015",
+       "ACTUAL_COUNT": "5"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d86"
+       },
+       "County": "NEWTON",
+       "Year": "2015",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d87"
+       },
+       "County": "NICOLLET",
+       "Year": "2015",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d88"
+       },
+       "County": "SHELBY",
+       "Year": "2015",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d89"
+       },
+       "County": "ST LOUIS",
+       "Year": "2015",
+       "ACTUAL_COUNT": "6"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d8a"
+       },
+       "County": "STEARNS",
+       "Year": "2015",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d8b"
+       },
+       "County": "WILLACY",
+       "Year": "2015",
+       "ACTUAL_COUNT": "9"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d8c"
+       },
+       "County": "ALACHUA",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d8d"
+       },
+       "County": "ALLEN",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d8e"
+       },
+       "County": "ANNE ARUNDEL",
+       "Year": "2016",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d8f"
+       },
+       "County": "ARAPAHOE",
+       "Year": "2016",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d90"
+       },
+       "County": "BELTRAMI",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d91"
+       },
+       "County": "BEXAR",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d92"
+       },
+       "County": "BOSQUE",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d93"
+       },
+       "County": "CARBON",
+       "Year": "2016",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d94"
+       },
+       "County": "CHAMPAIGN",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d95"
+       },
+       "County": "CHEROKEE",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d96"
+       },
+       "County": "CLACKAMAS",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d97"
+       },
+       "County": "COLLIER",
+       "Year": "2016",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d98"
+       },
+       "County": "COOKE",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d99"
+       },
+       "County": "EATON",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d9a"
+       },
+       "County": "ESCAMBIA",
+       "Year": "2016",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d9b"
+       },
+       "County": "FORT BEND",
+       "Year": "2016",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d9c"
+       },
+       "County": "GREENVILLE",
+       "Year": "2016",
+       "ACTUAL_COUNT": "13"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d9d"
+       },
+       "County": "GREGG",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d9e"
+       },
+       "County": "HARRIS",
+       "Year": "2016",
+       "ACTUAL_COUNT": "23"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270d9f"
+       },
+       "County": "HENRICO",
+       "Year": "2016",
+       "ACTUAL_COUNT": "7"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270da0"
+       },
+       "County": "HIDALGO",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270da1"
+       },
+       "County": "HILLSBOROUGH",
+       "Year": "2016",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270da2"
+       },
+       "County": "HOWARD",
+       "Year": "2016",
+       "ACTUAL_COUNT": "6"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270da3"
+       },
+       "County": "HUTCHINSON",
+       "Year": "2016",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270da4"
+       },
+       "County": "JEFFERSON",
+       "Year": "2016",
+       "ACTUAL_COUNT": "114"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270da5"
+       },
+       "County": "JIM WELLS",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270da6"
+       },
+       "County": "JOHNSON",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270da7"
+       },
+       "County": "KENT",
+       "Year": "2016",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270da8"
+       },
+       "County": "KITSAP",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270da9"
+       },
+       "County": "KLEBERG",
+       "Year": "2016",
+       "ACTUAL_COUNT": "8"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270daa"
+       },
+       "County": "LEE",
+       "Year": "2016",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dab"
+       },
+       "County": "MCKENZIE",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dac"
+       },
+       "County": "MIAMI-DADE",
+       "Year": "2016",
+       "ACTUAL_COUNT": "42"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dad"
+       },
+       "County": "MONTGOMERY",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dae"
+       },
+       "County": "NOLAN",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270daf"
+       },
+       "County": "ORANGE",
+       "Year": "2016",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270db0"
+       },
+       "County": "OSCEOLA",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270db1"
+       },
+       "County": "OTTER TAIL",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270db2"
+       },
+       "County": "PALM BEACH",
+       "Year": "2016",
+       "ACTUAL_COUNT": "9"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270db3"
+       },
+       "County": "RANDOLPH",
+       "Year": "2016",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270db4"
+       },
+       "County": "ROOSEVELT",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270db5"
+       },
+       "County": "SEMINOLE",
+       "Year": "2016",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270db6"
+       },
+       "County": "ST LOUIS",
+       "Year": "2016",
+       "ACTUAL_COUNT": "12"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270db7"
+       },
+       "County": "SUSSEX",
+       "Year": "2016",
+       "ACTUAL_COUNT": "10"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270db8"
+       },
+       "County": "TANGIPAHOA",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270db9"
+       },
+       "County": "VOLUSIA",
+       "Year": "2016",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dba"
+       },
+       "County": "WHITE",
+       "Year": "2016",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dbb"
+       },
+       "County": "WILLACY",
+       "Year": "2016",
+       "ACTUAL_COUNT": "20"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dbc"
+       },
+       "County": "WINNEBAGO",
+       "Year": "2016",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dbd"
+       },
+       "County": "ARAPAHOE",
+       "Year": "2017",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dbe"
+       },
+       "County": "AUSTIN",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dbf"
+       },
+       "County": "BEXAR",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dc0"
+       },
+       "County": "BLUE EARTH",
+       "Year": "2017",
+       "ACTUAL_COUNT": "10"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dc1"
+       },
+       "County": "BOWIE",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dc2"
+       },
+       "County": "BOX ELDER",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dc3"
+       },
+       "County": "BRAZOS",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dc4"
+       },
+       "County": "BROWN",
+       "Year": "2017",
+       "ACTUAL_COUNT": "12"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dc5"
+       },
+       "County": "CALEDONIA",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dc6"
+       },
+       "County": "CALHOUN",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dc7"
+       },
+       "County": "CAMDEN",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dc8"
+       },
+       "County": "CARVER",
+       "Year": "2017",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dc9"
+       },
+       "County": "CHAMBERS",
+       "Year": "2017",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dca"
+       },
+       "County": "CHESTER",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dcb"
+       },
+       "County": "CHITTENDEN",
+       "Year": "2017",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dcc"
+       },
+       "County": "CLAIBORNE",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dcd"
+       },
+       "County": "CROCKETT",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dce"
+       },
+       "County": "CROW WING",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dcf"
+       },
+       "County": "DANE",
+       "Year": "2017",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dd0"
+       },
+       "County": "DOUGLAS",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dd1"
+       },
+       "County": "FRANKLIN",
+       "Year": "2017",
+       "ACTUAL_COUNT": "52"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dd2"
+       },
+       "County": "GALLATIN",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dd3"
+       },
+       "County": "GREENVILLE",
+       "Year": "2017",
+       "ACTUAL_COUNT": "20"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dd4"
+       },
+       "County": "HARDEMAN",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dd5"
+       },
+       "County": "HARRIS",
+       "Year": "2017",
+       "ACTUAL_COUNT": "25"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dd6"
+       },
+       "County": "HENNEPIN",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dd7"
+       },
+       "County": "HENRICO",
+       "Year": "2017",
+       "ACTUAL_COUNT": "5"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dd8"
+       },
+       "County": "HIDALGO",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dd9"
+       },
+       "County": "HOPKINS",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dda"
+       },
+       "County": "HOUSTON",
+       "Year": "2017",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ddb"
+       },
+       "County": "INGHAM",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ddc"
+       },
+       "County": "JACKSON",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ddd"
+       },
+       "County": "JEFFERSON",
+       "Year": "2017",
+       "ACTUAL_COUNT": "54"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dde"
+       },
+       "County": "KALAMAZOO",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ddf"
+       },
+       "County": "KANKAKEE",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270de0"
+       },
+       "County": "KENT",
+       "Year": "2017",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270de1"
+       },
+       "County": "KITSAP",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270de2"
+       },
+       "County": "KNOX",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270de3"
+       },
+       "County": "LAFAYETTE",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270de4"
+       },
+       "County": "LARIMER",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270de5"
+       },
+       "County": "LENAWEE",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270de6"
+       },
+       "County": "MACKINAC",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270de7"
+       },
+       "County": "MADISON",
+       "Year": "2017",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270de8"
+       },
+       "County": "MAURY",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270de9"
+       },
+       "County": "MONROE",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dea"
+       },
+       "County": "MORTON",
+       "Year": "2017",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270deb"
+       },
+       "County": "NORFOLK",
+       "Year": "2017",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dec"
+       },
+       "County": "PICKENS",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ded"
+       },
+       "County": "PINAL",
+       "Year": "2017",
+       "ACTUAL_COUNT": "7"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dee"
+       },
+       "County": "RANDALL",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270def"
+       },
+       "County": "RANDOLPH",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270df0"
+       },
+       "County": "SALUDA",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270df1"
+       },
+       "County": "SHELBY",
+       "Year": "2017",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270df2"
+       },
+       "County": "ST LOUIS",
+       "Year": "2017",
+       "ACTUAL_COUNT": "16"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270df3"
+       },
+       "County": "ST TAMMANY",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270df4"
+       },
+       "County": "STARR",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270df5"
+       },
+       "County": "STONE",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270df6"
+       },
+       "County": "SUSSEX",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270df7"
+       },
+       "County": "SWEETWATER",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270df8"
+       },
+       "County": "WARD",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270df9"
+       },
+       "County": "WARREN",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dfa"
+       },
+       "County": "WASHINGTON",
+       "Year": "2017",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dfb"
+       },
+       "County": "WASHTENAW",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dfc"
+       },
+       "County": "WAYNE",
+       "Year": "2017",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dfd"
+       },
+       "County": "WEBB",
+       "Year": "2017",
+       "ACTUAL_COUNT": "43"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dfe"
+       },
+       "County": "WILLACY",
+       "Year": "2017",
+       "ACTUAL_COUNT": "6"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270dff"
+       },
+       "County": "WINNEBAGO",
+       "Year": "2017",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e00"
+       },
+       "County": "WINONA",
+       "Year": "2017",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e01"
+       },
+       "County": "ADAMS",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e02"
+       },
+       "County": "ALLEN",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e03"
+       },
+       "County": "BAY",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e04"
+       },
+       "County": "BENSON",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e05"
+       },
+       "County": "BERKELEY",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e06"
+       },
+       "County": "BERRIEN",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e07"
+       },
+       "County": "BEXAR",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e08"
+       },
+       "County": "BOLLINGER",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e09"
+       },
+       "County": "BOULDER",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e0a"
+       },
+       "County": "BULLITT",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e0b"
+       },
+       "County": "BURNET",
+       "Year": "2018",
+       "ACTUAL_COUNT": "10"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e0c"
+       },
+       "County": "CARROLL",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e0d"
+       },
+       "County": "CHAMBERS",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e0e"
+       },
+       "County": "CHEROKEE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e0f"
+       },
+       "County": "CHESTERFIELD",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e10"
+       },
+       "County": "CLINTON",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e11"
+       },
+       "County": "COLLIER",
+       "Year": "2018",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e12"
+       },
+       "County": "COMAL",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e13"
+       },
+       "County": "CREEK",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e14"
+       },
+       "County": "DALLAS",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e15"
+       },
+       "County": "DODGE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e16"
+       },
+       "County": "DUBOIS",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e17"
+       },
+       "County": "EL PASO",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e18"
+       },
+       "County": "FAYETTE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e19"
+       },
+       "County": "FORT BEND",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e1a"
+       },
+       "County": "FRANKLIN",
+       "Year": "2018",
+       "ACTUAL_COUNT": "6"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e1b"
+       },
+       "County": "FREEBORN",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e1c"
+       },
+       "County": "GENESEE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e1d"
+       },
+       "County": "GREENVILLE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e1e"
+       },
+       "County": "HAMILTON",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e1f"
+       },
+       "County": "HARRIS",
+       "Year": "2018",
+       "ACTUAL_COUNT": "13"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e20"
+       },
+       "County": "HARRISON",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e21"
+       },
+       "County": "HENNEPIN",
+       "Year": "2018",
+       "ACTUAL_COUNT": "7"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e22"
+       },
+       "County": "HENRICO",
+       "Year": "2018",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e23"
+       },
+       "County": "HERNANDO",
+       "Year": "2018",
+       "ACTUAL_COUNT": "11"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e24"
+       },
+       "County": "HILLSBOROUGH",
+       "Year": "2018",
+       "ACTUAL_COUNT": "6"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e25"
+       },
+       "County": "HORRY",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e26"
+       },
+       "County": "INGHAM",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e27"
+       },
+       "County": "IOSCO",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e28"
+       },
+       "County": "ISANTI",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e29"
+       },
+       "County": "JACKSON",
+       "Year": "2018",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e2a"
+       },
+       "County": "JEFFERSON",
+       "Year": "2018",
+       "ACTUAL_COUNT": "13"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e2b"
+       },
+       "County": "JIM WELLS",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e2c"
+       },
+       "County": "KALAMAZOO",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e2d"
+       },
+       "County": "KANKAKEE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e2e"
+       },
+       "County": "KENT",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e2f"
+       },
+       "County": "KING",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e30"
+       },
+       "County": "KITSAP",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e31"
+       },
+       "County": "KNOX",
+       "Year": "2018",
+       "ACTUAL_COUNT": "6"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e32"
+       },
+       "County": "LAFAYETTE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e33"
+       },
+       "County": "LAKE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e34"
+       },
+       "County": "LAURENS",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e35"
+       },
+       "County": "LEE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e36"
+       },
+       "County": "LINCOLN",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e37"
+       },
+       "County": "MACOMB",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e38"
+       },
+       "County": "MANATEE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e39"
+       },
+       "County": "MARION",
+       "Year": "2018",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e3a"
+       },
+       "County": "MARSHALL",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e3b"
+       },
+       "County": "MARTIN",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e3c"
+       },
+       "County": "MIDLAND",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e3d"
+       },
+       "County": "MISSAUKEE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e3e"
+       },
+       "County": "MONTGOMERY",
+       "Year": "2018",
+       "ACTUAL_COUNT": "5"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e3f"
+       },
+       "County": "NEW CASTLE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e40"
+       },
+       "County": "NODAWAY",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e41"
+       },
+       "County": "ONEIDA",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e42"
+       },
+       "County": "ORANGE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "6"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e43"
+       },
+       "County": "OSCEOLA",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e44"
+       },
+       "County": "PALM BEACH",
+       "Year": "2018",
+       "ACTUAL_COUNT": "20"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e45"
+       },
+       "County": "PASCO",
+       "Year": "2018",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e46"
+       },
+       "County": "PIMA",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e47"
+       },
+       "County": "PINAL",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e48"
+       },
+       "County": "POLK",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e49"
+       },
+       "County": "PRINCE WILLIAM",
+       "Year": "2018",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e4a"
+       },
+       "County": "PUTNAM",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e4b"
+       },
+       "County": "RAMSEY",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e4c"
+       },
+       "County": "RICE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e4d"
+       },
+       "County": "SAGINAW",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e4e"
+       },
+       "County": "SARASOTA",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e4f"
+       },
+       "County": "SCHOOLCRAFT",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e50"
+       },
+       "County": "SEMINOLE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e51"
+       },
+       "County": "ST JOSEPH",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e52"
+       },
+       "County": "ST LOUIS",
+       "Year": "2018",
+       "ACTUAL_COUNT": "11"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e53"
+       },
+       "County": "ST LUCIE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e54"
+       },
+       "County": "STARR",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e55"
+       },
+       "County": "STEARNS",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e56"
+       },
+       "County": "STONE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e57"
+       },
+       "County": "SUSSEX",
+       "Year": "2018",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e58"
+       },
+       "County": "SWEETWATER",
+       "Year": "2018",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e59"
+       },
+       "County": "TARRANT",
+       "Year": "2018",
+       "ACTUAL_COUNT": "34"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e5a"
+       },
+       "County": "TULSA",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e5b"
+       },
+       "County": "VICTORIA",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e5c"
+       },
+       "County": "VOLUSIA",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e5d"
+       },
+       "County": "WASHINGTON",
+       "Year": "2018",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e5e"
+       },
+       "County": "WAYNE",
+       "Year": "2018",
+       "ACTUAL_COUNT": "5"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e5f"
+       },
+       "County": "WEBB",
+       "Year": "2018",
+       "ACTUAL_COUNT": "6"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e60"
+       },
+       "County": "WILLACY",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e61"
+       },
+       "County": "WRIGHT",
+       "Year": "2018",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e62"
+       },
+       "County": "ACCOMACK",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e63"
+       },
+       "County": "ALBEMARLE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e64"
+       },
+       "County": "ALLEN",
+       "Year": "2019",
+       "ACTUAL_COUNT": "7"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e65"
+       },
+       "County": "AMHERST",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e66"
+       },
+       "County": "ANNE ARUNDEL",
+       "Year": "2019",
+       "ACTUAL_COUNT": "8"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e67"
+       },
+       "County": "ARAPAHOE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e68"
+       },
+       "County": "ARLINGTON",
+       "Year": "2019",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e69"
+       },
+       "County": "BAKER",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e6a"
+       },
+       "County": "BALTIMORE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e6b"
+       },
+       "County": "BELL",
+       "Year": "2019",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e6c"
+       },
+       "County": "BERKELEY",
+       "Year": "2019",
+       "ACTUAL_COUNT": "13"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e6d"
+       },
+       "County": "BERNALILLO",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e6e"
+       },
+       "County": "BEXAR",
+       "Year": "2019",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e6f"
+       },
+       "County": "BOSSIER",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e70"
+       },
+       "County": "BOWIE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e71"
+       },
+       "County": "BRADLEY",
+       "Year": "2019",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e72"
+       },
+       "County": "BRAXTON",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e73"
+       },
+       "County": "BROOKE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e74"
+       },
+       "County": "BROWN",
+       "Year": "2019",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e75"
+       },
+       "County": "CARSON CITY",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e76"
+       },
+       "County": "CATAWBA",
+       "Year": "2019",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e77"
+       },
+       "County": "CHAMBERS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e78"
+       },
+       "County": "CHEROKEE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e79"
+       },
+       "County": "CHESTERFIELD",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e7a"
+       },
+       "County": "CHITTENDEN",
+       "Year": "2019",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e7b"
+       },
+       "County": "CLAY",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e7c"
+       },
+       "County": "CLAYTON",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e7d"
+       },
+       "County": "CLEVELAND",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e7e"
+       },
+       "County": "COBB",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e7f"
+       },
+       "County": "COLLIER",
+       "Year": "2019",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e80"
+       },
+       "County": "CONCHO",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e81"
+       },
+       "County": "COOKE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e82"
+       },
+       "County": "COWETA",
+       "Year": "2019",
+       "ACTUAL_COUNT": "11"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e83"
+       },
+       "County": "CUMBERLAND",
+       "Year": "2019",
+       "ACTUAL_COUNT": "11"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e84"
+       },
+       "County": "DEKALB",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e85"
+       },
+       "County": "DODDRIDGE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e86"
+       },
+       "County": "DODGE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e87"
+       },
+       "County": "DOUGLAS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "5"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e88"
+       },
+       "County": "DUPAGE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e89"
+       },
+       "County": "EAU CLAIRE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e8a"
+       },
+       "County": "EDWARDS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e8b"
+       },
+       "County": "ELLIS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e8c"
+       },
+       "County": "FANNIN",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e8d"
+       },
+       "County": "FAYETTE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e8e"
+       },
+       "County": "FLAGLER",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e8f"
+       },
+       "County": "FRANKLIN",
+       "Year": "2019",
+       "ACTUAL_COUNT": "28"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e90"
+       },
+       "County": "FULTON",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e91"
+       },
+       "County": "GENESEE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "43"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e92"
+       },
+       "County": "GEORGETOWN",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e93"
+       },
+       "County": "GILMER",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e94"
+       },
+       "County": "GRAHAM",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e95"
+       },
+       "County": "GRAND FORKS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e96"
+       },
+       "County": "GREEN LAKE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e97"
+       },
+       "County": "GREENBRIER",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e98"
+       },
+       "County": "GREENVILLE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "11"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e99"
+       },
+       "County": "HALL",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e9a"
+       },
+       "County": "HAMPSHIRE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e9b"
+       },
+       "County": "HARFORD",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e9c"
+       },
+       "County": "HARRIS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "10"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e9d"
+       },
+       "County": "HAYWOOD",
+       "Year": "2019",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e9e"
+       },
+       "County": "HENNEPIN",
+       "Year": "2019",
+       "ACTUAL_COUNT": "7"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270e9f"
+       },
+       "County": "HENRICO",
+       "Year": "2019",
+       "ACTUAL_COUNT": "22"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ea0"
+       },
+       "County": "HERNANDO",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ea1"
+       },
+       "County": "HILLSBOROUGH",
+       "Year": "2019",
+       "ACTUAL_COUNT": "9"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ea2"
+       },
+       "County": "HOPKINS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ea3"
+       },
+       "County": "HORRY",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ea4"
+       },
+       "County": "HOWARD",
+       "Year": "2019",
+       "ACTUAL_COUNT": "9"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ea5"
+       },
+       "County": "HUBBARD",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ea6"
+       },
+       "County": "HUNT",
+       "Year": "2019",
+       "ACTUAL_COUNT": "5"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ea7"
+       },
+       "County": "HUNTINGTON",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ea8"
+       },
+       "County": "ISANTI",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ea9"
+       },
+       "County": "ITASCA",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eaa"
+       },
+       "County": "JACKSON",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eab"
+       },
+       "County": "JEFFERSON",
+       "Year": "2019",
+       "ACTUAL_COUNT": "8"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eac"
+       },
+       "County": "JIM WELLS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ead"
+       },
+       "County": "JOHNSTON",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eae"
+       },
+       "County": "KIMBLE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eaf"
+       },
+       "County": "KING",
+       "Year": "2019",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eb0"
+       },
+       "County": "KIOWA",
+       "Year": "2019",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eb1"
+       },
+       "County": "KNOX",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eb2"
+       },
+       "County": "LACLEDE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eb3"
+       },
+       "County": "LAFAYETTE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eb4"
+       },
+       "County": "LAKE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eb5"
+       },
+       "County": "LAPEER",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eb6"
+       },
+       "County": "LEE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "13"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eb7"
+       },
+       "County": "LINCOLN",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eb8"
+       },
+       "County": "LOGAN",
+       "Year": "2019",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eb9"
+       },
+       "County": "LUNENBURG",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eba"
+       },
+       "County": "MACKINAC",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ebb"
+       },
+       "County": "MACOMB",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ebc"
+       },
+       "County": "MARION",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ebd"
+       },
+       "County": "MARSHALL",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ebe"
+       },
+       "County": "MASON",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ebf"
+       },
+       "County": "MATHEWS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ec0"
+       },
+       "County": "MAUI",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ec1"
+       },
+       "County": "MERCER",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ec2"
+       },
+       "County": "MONTGOMERY",
+       "Year": "2019",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ec3"
+       },
+       "County": "MORGAN",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ec4"
+       },
+       "County": "MULTNOMAH",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ec5"
+       },
+       "County": "MUSKEGON",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ec6"
+       },
+       "County": "NEW CASTLE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "5"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ec7"
+       },
+       "County": "NEW HANOVER",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ec8"
+       },
+       "County": "NICHOLAS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ec9"
+       },
+       "County": "OHIO",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eca"
+       },
+       "County": "ONEIDA",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ecb"
+       },
+       "County": "ORANGE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "6"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ecc"
+       },
+       "County": "OUTAGAMIE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ecd"
+       },
+       "County": "PALM BEACH",
+       "Year": "2019",
+       "ACTUAL_COUNT": "28"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ece"
+       },
+       "County": "PASCO",
+       "Year": "2019",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ecf"
+       },
+       "County": "PAULDING",
+       "Year": "2019",
+       "ACTUAL_COUNT": "15"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ed0"
+       },
+       "County": "PEACH",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ed1"
+       },
+       "County": "PIERCE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ed2"
+       },
+       "County": "PIKE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ed3"
+       },
+       "County": "PINE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ed4"
+       },
+       "County": "POCAHONTAS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ed5"
+       },
+       "County": "PONTOTOC",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ed6"
+       },
+       "County": "PRINCE GEORGE'S",
+       "Year": "2019",
+       "ACTUAL_COUNT": "9"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ed7"
+       },
+       "County": "PRINCE WILLIAM",
+       "Year": "2019",
+       "ACTUAL_COUNT": "7"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ed8"
+       },
+       "County": "RALEIGH",
+       "Year": "2019",
+       "ACTUAL_COUNT": "7"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ed9"
+       },
+       "County": "RANDOLPH",
+       "Year": "2019",
+       "ACTUAL_COUNT": "7"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eda"
+       },
+       "County": "RICHLAND",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270edb"
+       },
+       "County": "RITCHIE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270edc"
+       },
+       "County": "ROANE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270edd"
+       },
+       "County": "ROSEAU",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ede"
+       },
+       "County": "RUTHERFORD",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270edf"
+       },
+       "County": "SAN PATRICIO",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ee0"
+       },
+       "County": "SCOTLAND",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ee1"
+       },
+       "County": "SEMINOLE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ee2"
+       },
+       "County": "SHELBY",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ee3"
+       },
+       "County": "SPOKANE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ee4"
+       },
+       "County": "ST LOUIS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "10"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ee5"
+       },
+       "County": "ST TAMMANY",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ee6"
+       },
+       "County": "STAFFORD",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ee7"
+       },
+       "County": "STEVENS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ee8"
+       },
+       "County": "SUMMERS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ee9"
+       },
+       "County": "SUSSEX",
+       "Year": "2019",
+       "ACTUAL_COUNT": "14"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eea"
+       },
+       "County": "SWISHER",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eeb"
+       },
+       "County": "TARRANT",
+       "Year": "2019",
+       "ACTUAL_COUNT": "13"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eec"
+       },
+       "County": "TWIGGS",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eed"
+       },
+       "County": "UNION",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eee"
+       },
+       "County": "VIGO",
+       "Year": "2019",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eef"
+       },
+       "County": "VOLUSIA",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ef0"
+       },
+       "County": "WARD",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ef1"
+       },
+       "County": "WARREN",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ef2"
+       },
+       "County": "WASHINGTON",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ef3"
+       },
+       "County": "WAYNE",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ef4"
+       },
+       "County": "WEBB",
+       "Year": "2019",
+       "ACTUAL_COUNT": "22"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ef5"
+       },
+       "County": "WEBSTER",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ef6"
+       },
+       "County": "WHITFIELD",
+       "Year": "2019",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ef7"
+       },
+       "County": "WINNEBAGO",
+       "Year": "2019",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ef8"
+       },
+       "County": "WOOD",
+       "Year": "2019",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270ef9"
+       },
+       "County": "WYOMING",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270efa"
+       },
+       "County": "ZAVALA",
+       "Year": "2019",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270efb"
+       },
+       "County": "ACCOMACK",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270efc"
+       },
+       "County": "ADAMS",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270efd"
+       },
+       "County": "ALLEGHENY",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270efe"
+       },
+       "County": "ALLEN",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270eff"
+       },
+       "County": "ANNE ARUNDEL",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f00"
+       },
+       "County": "ASHLAND",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f01"
+       },
+       "County": "ATASCOSA",
+       "Year": "2020",
+       "ACTUAL_COUNT": "8"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f02"
+       },
+       "County": "BAKER",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f03"
+       },
+       "County": "BALTIMORE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f04"
+       },
+       "County": "BEE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f05"
+       },
+       "County": "BELL",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f06"
+       },
+       "County": "BERKELEY",
+       "Year": "2020",
+       "ACTUAL_COUNT": "11"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f07"
+       },
+       "County": "BEXAR",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f08"
+       },
+       "County": "BIBB",
+       "Year": "2020",
+       "ACTUAL_COUNT": "8"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f09"
+       },
+       "County": "BOONE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f0a"
+       },
+       "County": "BOSSIER",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f0b"
+       },
+       "County": "BOX ELDER",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f0c"
+       },
+       "County": "BRANTLEY",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f0d"
+       },
+       "County": "BRAXTON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f0e"
+       },
+       "County": "BROOKE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f0f"
+       },
+       "County": "BURNETT",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f10"
+       },
+       "County": "CAMDEN",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f11"
+       },
+       "County": "CAMPBELL",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f12"
+       },
+       "County": "CAROLINE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f13"
+       },
+       "County": "CARROLL",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f14"
+       },
+       "County": "CARSON CITY",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f15"
+       },
+       "County": "CARVER",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f16"
+       },
+       "County": "CASTRO",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f17"
+       },
+       "County": "CATAWBA",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f18"
+       },
+       "County": "CHAMBERS",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f19"
+       },
+       "County": "CHARLEVOIX",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f1a"
+       },
+       "County": "CHEROKEE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f1b"
+       },
+       "County": "CHESTERFIELD",
+       "Year": "2020",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f1c"
+       },
+       "County": "CLARK",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f1d"
+       },
+       "County": "CLAYTON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "8"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f1e"
+       },
+       "County": "COBB",
+       "Year": "2020",
+       "ACTUAL_COUNT": "16"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f1f"
+       },
+       "County": "COFFEE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f20"
+       },
+       "County": "COLLIER",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f21"
+       },
+       "County": "COOK",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f22"
+       },
+       "County": "COOKE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f23"
+       },
+       "County": "COWETA",
+       "Year": "2020",
+       "ACTUAL_COUNT": "10"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f24"
+       },
+       "County": "CRAWFORD",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f25"
+       },
+       "County": "CULPEPER",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f26"
+       },
+       "County": "CUMBERLAND",
+       "Year": "2020",
+       "ACTUAL_COUNT": "5"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f27"
+       },
+       "County": "DEKALB",
+       "Year": "2020",
+       "ACTUAL_COUNT": "27"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f28"
+       },
+       "County": "DODGE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f29"
+       },
+       "County": "DOUGLAS",
+       "Year": "2020",
+       "ACTUAL_COUNT": "7"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f2a"
+       },
+       "County": "DURHAM",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f2b"
+       },
+       "County": "EDWARDS",
+       "Year": "2020",
+       "ACTUAL_COUNT": "43"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f2c"
+       },
+       "County": "EFFINGHAM",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f2d"
+       },
+       "County": "EL PASO",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f2e"
+       },
+       "County": "ELLIS",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f2f"
+       },
+       "County": "FAIRFAX",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f30"
+       },
+       "County": "FAYETTE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f31"
+       },
+       "County": "FLAGLER",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f32"
+       },
+       "County": "FLOYD",
+       "Year": "2020",
+       "ACTUAL_COUNT": "22"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f33"
+       },
+       "County": "FORT BEND",
+       "Year": "2020",
+       "ACTUAL_COUNT": "6"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f34"
+       },
+       "County": "FRANKLIN",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f35"
+       },
+       "County": "FULTON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f36"
+       },
+       "County": "GALVESTON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f37"
+       },
+       "County": "GENESEE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "20"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f38"
+       },
+       "County": "GOLIAD",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f39"
+       },
+       "County": "GREENVILLE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f3a"
+       },
+       "County": "HALL",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f3b"
+       },
+       "County": "HAMILTON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f3c"
+       },
+       "County": "HARDY",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f3d"
+       },
+       "County": "HARFORD",
+       "Year": "2020",
+       "ACTUAL_COUNT": "-1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f3e"
+       },
+       "County": "HARRIS",
+       "Year": "2020",
+       "ACTUAL_COUNT": "93"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f3f"
+       },
+       "County": "HAYWOOD",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f40"
+       },
+       "County": "HENNEPIN",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f41"
+       },
+       "County": "HENRICO",
+       "Year": "2020",
+       "ACTUAL_COUNT": "25"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f42"
+       },
+       "County": "HERNANDO",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f43"
+       },
+       "County": "HILLSBOROUGH",
+       "Year": "2020",
+       "ACTUAL_COUNT": "25"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f44"
+       },
+       "County": "HILLSDALE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f45"
+       },
+       "County": "HOPKINS",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f46"
+       },
+       "County": "HORRY",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f47"
+       },
+       "County": "HOWARD",
+       "Year": "2020",
+       "ACTUAL_COUNT": "7"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f48"
+       },
+       "County": "INGHAM",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f49"
+       },
+       "County": "JACKSON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f4a"
+       },
+       "County": "JASPER",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f4b"
+       },
+       "County": "JEFFERSON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f4c"
+       },
+       "County": "KANAWHA",
+       "Year": "2020",
+       "ACTUAL_COUNT": "10"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f4d"
+       },
+       "County": "KENT",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f4e"
+       },
+       "County": "KOSCIUSKO",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f4f"
+       },
+       "County": "LAKE OF THE WOODS",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f50"
+       },
+       "County": "LANCASTER",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f51"
+       },
+       "County": "LEE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "14"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f52"
+       },
+       "County": "LEWIS",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f53"
+       },
+       "County": "LEXINGTON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f54"
+       },
+       "County": "LINCOLN",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f55"
+       },
+       "County": "LOGAN",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f56"
+       },
+       "County": "LOWNDES",
+       "Year": "2020",
+       "ACTUAL_COUNT": "10"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f57"
+       },
+       "County": "MACOMB",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f58"
+       },
+       "County": "MARATHON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f59"
+       },
+       "County": "MARSHALL",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f5a"
+       },
+       "County": "MASON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f5b"
+       },
+       "County": "MCDONALD",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f5c"
+       },
+       "County": "MCLEAN",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f5d"
+       },
+       "County": "MERCER",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f5e"
+       },
+       "County": "MERIWETHER",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f5f"
+       },
+       "County": "MERRIMACK",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f60"
+       },
+       "County": "MILLE LACS",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f61"
+       },
+       "County": "MINERAL",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f62"
+       },
+       "County": "MONONGALIA",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f63"
+       },
+       "County": "MONROE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f64"
+       },
+       "County": "MONTGOMERY",
+       "Year": "2020",
+       "ACTUAL_COUNT": "12"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f65"
+       },
+       "County": "MORGAN",
+       "Year": "2020",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f66"
+       },
+       "County": "MORTON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f67"
+       },
+       "County": "MULTNOMAH",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f68"
+       },
+       "County": "MUSCOGEE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "7"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f69"
+       },
+       "County": "NEW CASTLE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f6a"
+       },
+       "County": "NEWTON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f6b"
+       },
+       "County": "NICHOLAS",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f6c"
+       },
+       "County": "NYE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f6d"
+       },
+       "County": "OAKLAND",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f6e"
+       },
+       "County": "ORANGE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "14"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f6f"
+       },
+       "County": "OUTAGAMIE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f70"
+       },
+       "County": "PALM BEACH",
+       "Year": "2020",
+       "ACTUAL_COUNT": "96"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f71"
+       },
+       "County": "PASCO",
+       "Year": "2020",
+       "ACTUAL_COUNT": "5"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f72"
+       },
+       "County": "PATRICK",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f73"
+       },
+       "County": "PAULDING",
+       "Year": "2020",
+       "ACTUAL_COUNT": "18"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f74"
+       },
+       "County": "PERSON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f75"
+       },
+       "County": "PICKAWAY",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f76"
+       },
+       "County": "PIERCE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f77"
+       },
+       "County": "PITTSYLVANIA",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f78"
+       },
+       "County": "PRINCE GEORGE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f79"
+       },
+       "County": "PRINCE GEORGE'S",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f7a"
+       },
+       "County": "PULASKI",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f7b"
+       },
+       "County": "RACINE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f7c"
+       },
+       "County": "RALEIGH",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f7d"
+       },
+       "County": "RANDOLPH",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f7e"
+       },
+       "County": "RITCHIE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f7f"
+       },
+       "County": "ROANOKE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f80"
+       },
+       "County": "RUSSELL",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f81"
+       },
+       "County": "RUTHERFORD",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f82"
+       },
+       "County": "SALINE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f83"
+       },
+       "County": "SAN PATRICIO",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f84"
+       },
+       "County": "SCOTT",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f85"
+       },
+       "County": "SEMINOLE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f86"
+       },
+       "County": "SHEBOYGAN",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f87"
+       },
+       "County": "SHELBY",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f88"
+       },
+       "County": "SHERBURNE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f89"
+       },
+       "County": "SHIAWASSEE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f8a"
+       },
+       "County": "SOUTHAMPTON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f8b"
+       },
+       "County": "SPOKANE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f8c"
+       },
+       "County": "ST CHARLES",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f8d"
+       },
+       "County": "ST LOUIS",
+       "Year": "2020",
+       "ACTUAL_COUNT": "9"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f8e"
+       },
+       "County": "STAFFORD",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f8f"
+       },
+       "County": "SUMMIT",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f90"
+       },
+       "County": "SUSSEX",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f91"
+       },
+       "County": "TARRANT",
+       "Year": "2020",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f92"
+       },
+       "County": "TAZEWELL",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f93"
+       },
+       "County": "THOMAS",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f94"
+       },
+       "County": "TYLER",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f95"
+       },
+       "County": "UPSHUR",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f96"
+       },
+       "County": "VOLUSIA",
+       "Year": "2020",
+       "ACTUAL_COUNT": "7"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f97"
+       },
+       "County": "WARD",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f98"
+       },
+       "County": "WASHINGTON",
+       "Year": "2020",
+       "ACTUAL_COUNT": "4"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f99"
+       },
+       "County": "WASHOE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f9a"
+       },
+       "County": "WAYNE",
+       "Year": "2020",
+       "ACTUAL_COUNT": "3"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f9b"
+       },
+       "County": "WEBB",
+       "Year": "2020",
+       "ACTUAL_COUNT": "17"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f9c"
+       },
+       "County": "WHITFIELD",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f9d"
+       },
+       "County": "WOOD",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f9e"
+       },
+       "County": "WRIGHT",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270f9f"
+       },
+       "County": "WYOMING",
+       "Year": "2020",
+       "ACTUAL_COUNT": "1"
+    },
+    {
+       "_id": {
+          "$oid": "620c94d4ccd4f56bf0270fa0"
+       },
+       "County": "ZAVALA",
+       "Year": "2020",
+       "ACTUAL_COUNT": "2"
+    }
+ ]
