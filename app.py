@@ -24,5 +24,9 @@ def index():
 def lists():
     return json_util.dumps(i for i in mongo.db.Human_Trafficking_2013_2020.find())
 
+@app.route('/data2')
+def clean():
+    return json_util.dumps(i for i in mongo.db.BEA_Clean.find())
+
 if __name__ == "__main__":
     app.run(debug=True)
